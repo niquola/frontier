@@ -6,7 +6,7 @@
                  [http-kit "2.1.19"]
                  [hiccup "1.0.5"]
                  [cheshire "5.3.1"]
-                 [garden "1.2.3"]
+                 [garden "1.2.5"]
                  [org.clojure/core.async "0.1.346.0-17112a-alpha"]
                  [compojure "1.1.9"]]
   :profiles
